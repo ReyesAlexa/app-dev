@@ -19,5 +19,4 @@ Cathy Garcia-Sampana
 
 *and many more*
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvocal.media%2Fgeeks%2Fshe-s-dating-the-gangster-movie-review&psig=AOvVaw0tVLlxiIFeBZRIOg_IkfeQ&ust=1685229047928000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOD3986NlP8CFQAAAAAdAAAAABAH)
-
+![image](https://github.com/ReyesAlexa/app-dev/assets/134628845/ddb70a00-c3a8-45f7-971c-ee0d1c6b7aa9)
